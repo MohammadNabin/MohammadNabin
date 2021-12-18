@@ -1,8 +1,8 @@
-### Hi there 👋,I'm _MD NABIN_
-#### _I am Web Application Developer_
-![I am Web Application Developer](https://github.com/thetechmortal/TheTechMortal/blob/main/img/md_nabin.jpg)
+### Hi There 👋,I'm _Mohammad Nabin_
+#### _I Am Web Application Developer_
+![I Am Web Application Developer](https://github.com/MohammadNabin/Mohammad_Nabin/blob/main/img/Mohammad_Nabin.jpg)
 
-I am a Web Designer & Developer, and I’m very passionate and dedicated to my work. With good experience as a Professional Web Developer & Word Press Developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration. 
+I am a Web Designer & Developer, And I’m very passionate and dedicated to my work. With good experience as a Professional Web Developer & Word Press Developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration. 
 
 Main Skills: PHP (OOP & Core) / AJAX / REST API / JAVASCRIPT/ JQUERY 
 
@@ -11,14 +11,14 @@ Main Skills: PHP (OOP & Core) / AJAX / REST API / JAVASCRIPT/ JQUERY
 
 - 🌱 I’m currently learning Laravel (PHP Framework)
 - 💬 Ask me about Programming & Data Structure  💻 
-- 📫 How to reach me: thetechmortal@gmail.com 
-- ⚡ Fun fact: Like to Travel & Eat 🥘 
+- 📫 How to reach me: mohammadnabin991@gmail.com 
+- ⚡ Fun fact: Like to Travel & Eat 🥘
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thetechmortal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thetechmortal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/thetechmortal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thetechmortal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](skype:) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefoxbrowser.svg' alt='website' height='40'>](https://www.thetechmortal.xyz/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohammadNabin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thetechmortal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/thetechmortal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mohammad_Nabin_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](skype:) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefoxbrowser.svg' alt='website' height='40'>](https://www.thetechmortal.xyz/) 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thetechmortal)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechmortal&show_icons=true&count_private=true&theme=radical)  
 
-![Profile views](https://gpvc.arturio.dev/thetechmortal)
+![Profile views](https://gpvc.arturio.dev/MohammadNabin)

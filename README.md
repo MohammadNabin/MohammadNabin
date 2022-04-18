@@ -1,6 +1,6 @@
 ### Hi There 👋,I'm _Mohammad Nabin_
 #### _I Am Web Application Developer_
-![I Am Web Application Developer](https://github.com/MohammadNabin/Mohammad_Nabin/blob/main/img/Mohammad_Nabin.jpg)
+![I Am Web Application Developer](https://github.com/thetechmortal/thetechmortal.github.io/blob/main/assets/images/main/MD-NABIN-Squre.jpg)
 
 I Am A Web Designer & Developer, And I’m Very Passionate And Dedicated To My Work. With Good Experience As A Professional Web Developer & Word Press Developer, I Have Acquired The Skills And Knowledge Necessary To Make Your Project A Success. I Enjoy Every Step Of The Design Process,From Discussion And Collaboration. 
 
